@@ -1,0 +1,20 @@
+{
+  "name": "quizcraft",
+  "version": "1.0.0",
+  "description": "Ai powered Quiz Generator",
+  "homepage": "https://github.com/Flintoffjerisildas/QUIZ_CRAFT#readme",
+  "bugs": {
+    "url": "https://github.com/Flintoffjerisildas/QUIZ_CRAFT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flintoffjerisildas/QUIZ_CRAFT.git"
+  },
+  "license": "ISC",
+  "author": "{Flint, Jey, Ajay, Barani}",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
