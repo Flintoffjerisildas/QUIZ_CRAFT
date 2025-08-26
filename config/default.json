@@ -1,0 +1,6 @@
+{
+    "URI":"mongodb+srv://flintoff961:HNCwb3gANwBdfrfP@clusterquiz.yb99an5.mongodb.net/?retryWrites=true&w=majority&appName=ClusterQuiz",
+    "jwtSectet":"YourJWTSecret123432@#$",
+    "githubClientId":"Ov23liVLQvE6Y4OrdtLk",
+    "githubSecret":"87266c31a1b07228e22614cdd6623927097a3982"
+}
