@@ -52,7 +52,8 @@ router.post('/', [
 
         const payLoad = {
             user:{
-                id:user.id
+                id:user.id,
+                name:user.name
             }
         };
 
