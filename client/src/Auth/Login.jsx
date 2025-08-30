@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 function Login() {
   return (
@@ -17,7 +18,9 @@ function Login() {
         </form> 
     
     <div className="signup-option">
-        <p>Don't have an account? <a href="signup.html">Sign up</a></p>
+        {/* Use React Router's Link for navigation */}
+
+        <p>Don't have an account? <Link to="/Register">Sign up</Link></p>
     </div>
     </div>
   )

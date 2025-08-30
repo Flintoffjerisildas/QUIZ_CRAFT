@@ -1,5 +1,6 @@
 import React from 'react';
 import './register&loginStyles.css';
+import { Link } from 'react-router-dom';
 function Register() {
   return (
     <div className="container">
@@ -20,7 +21,7 @@ function Register() {
             <button type="submit">Sign Up</button>
         </form>
         <div className="signup-option">
-            <p>Already have an account? <a href="signin.html">Sign in</a></p>
+            <p>Already have an account? <Link to="/Login">Sign in</Link></p>
         </div>
     </div>
   )
